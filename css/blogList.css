@@ -1,0 +1,34 @@
+.out {
+  margin: 30px;
+  width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.lion > img{
+  width: 50px;
+}
+
+.lion {
+  float: left;
+  margin-right: 10px;
+}
+
+.blog-content {
+  float: left;
+  width: 80%;
+  background: #eee;
+}
+
+.blog-img {
+  float: right;
+  width: 20%;
+}
+.blog-img > img {
+  width: 300px;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+footer > img{
+  width: 30px;
+  float: right;
+}
